@@ -1,0 +1,48 @@
+export const products = [
+  { item: 'butter', price: '4.3', unit: 'gram', currency: 'ILS', id: '1' },
+  {
+    item: 'flour bleached wheat',
+    price: '0.5',
+    unit: 'gram',
+    currency: 'ILS',
+    id: '2',
+  },
+  {
+    item: 'granulated white sugar',
+    price: '0.5',
+    unit: 'gram',
+    currency: 'ILS',
+    id: '3',
+  },
+  {
+    item: 'condensed milk',
+    price: '1.9',
+    type: 'ml',
+    currency: 'ILS',
+    id: '4',
+  },
+  { item: 'eggs', price: '1', type: 'each', currency: 'ILS', id: '5' },
+  { item: 'butter', price: '4.3', unit: 'gram', currency: 'ILS', id: '6' },
+  {
+    item: 'flour bleached wheat',
+    price: '0.5',
+    unit: 'gram',
+    currency: 'ILS',
+    id: '7',
+  },
+  {
+    item: 'granulated white sugar',
+    price: '0.5',
+    unit: 'gram',
+    currency: 'ILS',
+    id: '8',
+  },
+  {
+    item: 'condensed milk',
+    price: '1.9',
+    type: 'ml',
+    currency: 'ILS',
+    id: '9',
+  },
+  { item: 'eggs', price: '1', type: 'each', currency: 'ILS', id: '10' },
+]
